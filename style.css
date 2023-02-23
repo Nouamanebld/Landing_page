@@ -1,0 +1,16 @@
+body {
+    margin: 0 100px;
+}
+
+.hero-header {
+    display: flex;
+}
+
+.head-logo {
+    margin-right: auto;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
