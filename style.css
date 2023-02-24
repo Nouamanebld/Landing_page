@@ -86,3 +86,21 @@
     margin: 0 auto;
     margin-bottom: 10px;
 }
+
+.second-section {
+    padding: 50px 220px;
+    background-color: #e5e7eb;
+}
+
+.testimonial {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.writer {
+    font-weight: bolder;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: end;
+}
